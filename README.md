@@ -1,4 +1,4 @@
-# Ex 08-Windows-basic-commands-batchscript
+# Ex-08-Windows-basic-commands-batchscript
 
 # AIM:
 To execute Windows basic commands and batch scripting
